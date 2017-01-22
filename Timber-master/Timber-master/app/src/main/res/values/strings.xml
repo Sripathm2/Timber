@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="action_settings">Settings</string>
+
+    <string name="accessibility_play">Play</string>
+    <string name="accessibility_pause">Pause</string>
+    <string name="accessibility_next">Next</string>
+    <string name="accessibility_prev">Previous</string>
+    <string name="accessibility_shuffle">Shuffle</string>
+    <string name="accessibility_shuffle_all">Shuffle all</string>
+    <string name="accessibility_repeat">Repeat</string>
+    <string name="accessibility_repeat_all">Repeat all</string>
+    <string name="accessibility_repeat_one">Repeat one</string>
+    <string name="accessibility_queue">Open queue</string>
+    <string name="accessibility_browse">Browse music</string>
+
+    <string name="menu_sort_by">Sort by</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string name="sort_order_entry_artist">Artist</string>
+    <string name="sort_order_entry_album">Album</string>
+    <string name="sort_order_entry_year">Year</string>
+    <string name="sort_order_entry_track_number">Track Number</string>
+    <string name="sort_order_entry_duration">Duration</string>
+    <string name="sort_order_entry_date_added">Date added</string>
+    <string name="sort_order_entry_track_list">Track list</string>
+    <string name="sort_order_entry_number_of_songs">Number of songs</string>
+    <string name="sort_order_entry_number_of_albums">Number of albums</string>
+    <string name="sort_order_entry_filename">Filename</string>
+
+    <string name="error_playing_track">Error Playing track</string>
+
+    <string name="playlist_last_added">Last Added</string>
+    <string name="playlist_recently_played">Recently Played</string>
+    <string name="playlist_top_tracks">My Top Tracks</string>
+
+    <string name="timber_source">Report any bugs <u> here </u> </string>
+    <string name="timber_feature_request">Specify any feature request in the Google+ community <u> here </u></string>
+
+    <string name="menu_show_as">View As</string>
+    <string name="menu_show_as_entry_list">List</string>
+    <string name="menu_show_as_entry_grid">Grid</string>
+    <string name="menu_show_as_entry_default">Default</string>
+
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="black">Black</string>
+
+    <string name="last_opened">Last Opened</string>
+
+    <string name="songs">Songs</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="library">Library</string>
+    <string name="playlists">Playlists</string>
+    <string name="playing_queue">Playing Queue</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="help_and_feedback">Help and Feedback</string>
+    <string name="search">Search</string>
+    <string name="action_shuffle_all">Shuffle All</string>
+    <string name="action_equalizer">Equalizer</string>
+    <string name="search_library">Search Library</string>
+
+    <string name="select_theme">Select Theme</string>
+    <string name="choose_theme_throughout">Choose a theme to be used throughout the app.</string>
+    <string name="choose_start_page">Choose the start page to be displayed on launch.</string>
+    <string name="start_page">Start page</string>
+    <string name="artist_in_grid">Artists in Grid</string>
+    <string name="toggle_artists_grid">Toggle for displaying artists in a 2x2 grid.</string>
+    <string name="toggle_system_animations">Toggle for system animations throughout the app.</string>
+    <string name="system_animations">System animations</string>
+    <string name="toggle_animations">Toggle for Transition animation throughout the app.</string>
+    <string name="animations">Animations</string>
+    <string name="now_playing_selector">Choose a now playing screen from 4 different styles.</string>
+    <string name="personalisation">Personalisation</string>
+    <string name="other">Other</string>
+    <string name="advanced">Advanced</string>
+    <string name="timber_about_opensource">Timber is a open source Music Player developed by Sripath Mishra.</string>
+    <string name="summary_pause_detach">Toggle for pausing playback when headphone is detached</string>
+    <string name="pause_detach">Pause on Detach</string>
+    <string name="summary_xposed_trackselector">Requires Xposed and XMediaNotificationTrackSelector Xposed module to be installed. This will provide access to playing queue from the notification bar itself.</string>
+    <string name="xposed_trackselector">Playing queue support in notification</string>
+    <string name="currently_selected">Currently Selected</string>
+
+    <string name="dark_theme">Dark Theme</string>
+    <string name="dark_theme_summary">Apply a dark theme throughout the app</string>
+
+    <string name="primary_color">Primary Color</string>
+    <string name="primary_color_summary">Change the primary theme color</string>
+
+    <string name="accent_color">Accent Color</string>
+    <string name="accent_color_summary">Change the accent theme color</string>
+
+    <string name="colored_status_bar">Colored Status Bar</string>
+    <string name="colored_status_bar_summary">Toggle status bar coloring</string>
+
+    <string name="colored_nav_bar">Colored Navigation Bar</string>
+    <string name="colored_nav_bar_summary">Toggle navigation bar coloring</string>
+
+    <string name="gestures">Gestures</string>
+    <string name="switching_tracks_by_gestures">Switching tracks using gestures</string>
+    <string name="widget_standard">Timber standard widget</string>
+    <string name="widget_small">Timber small widget</string>
+    <string name="tap_to_start">Tap to start Timber</string>
+    <string name="widget_white">Timber light widget</string>
+
+    <string name="count_song"><xliff:g id="count">%d</xliff:g> song</string>
+    <string name="count_songs"><xliff:g id="count">%d</xliff:g> songs</string>
+    <string name="count_album"><xliff:g id="count">%d</xliff:g> album</string>
+    <string name="count_albums"><xliff:g id="count">%d</xliff:g> albums</string>
+    <string name="count_artist"><xliff:g id="count">%d</xliff:g> artist</string>
+    <string name="count_artists"><xliff:g id="count">%d</xliff:g> artists</string>
+
+    <string name="number_song_add_queue"><xliff:g example="1" id="number">%d</xliff:g> song added to the queue.</string>
+    <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g> songs added to the queue.</string>
+    <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> song added to playlist.</string>
+    <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> songs added to playlist.</string>
+
+
+    <!--do not translate these strings-->
+    <string name="app_name" translatable="false">Timber</string>
+    <string name="combine_two_strings" translatable="false">%1$s | %2$s</string>
+    <string name="duration_format" translatable="false"><xliff:g id="hours">%1$s</xliff:g> <xliff:g id="minutes">%2$s</xliff:g></string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+
+    <string name="play">Play</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="go_to_album">Go to album</string>
+    <string name="go_to_artist">Go to artist</string>
+    <string name="add_to_queue">Add to queue</string>
+    <string name="play_next">Play next</string>
+    <string name="new_playlist">New playlist</string>
+
+
+    <string name="nothing_found">Nothing found</string>
+    <string name="folders">Folders</string>
+    <!-- menu entries -->
+    <string name="menu_about">About</string>
+    <string name="menu_howto">How to use</string>
+    <string name="menu_timer">Sleep timer</string>
+    <string name="menu_icon">Change icon</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_rename">Rename</string>
+    <string name="menu_shortcut">Place on Home screen</string>
+
+    <!-- headers -->
+    <string name="header_about">About</string>
+    <string name="header_howto">How to use</string>
+
+    <!-- descriptions -->
+    <string name="descr_arrow_actioncall">Arrow pointing towards the add station symbol</string>
+    <string name="descr_overflow_button">Display options for radio station</string>
+    <string name="descr_station_icon">Icon of radio station</string>
+    <string name="descr_station_name">Name of radio station</string>
+    <string name="descr_station_metadata">Metadata (Artist / Title) of currently playing radio station</string>
+    <string name="descr_station_name_example">Example FM</string>
+    <string name="descr_station_metadata_example">Artist - Title</string>
+    <string name="descr_station_stream_loading">Loading stream …</string>
+    <string name="descr_playback_button">Big playback button</string>
+    <string name="descr_playback_indicator">Indicator for running playback</string>
+    <string name="descr_playback_indicator_started">Indicator for running playback</string>
+    <string name="descr_timer_indicator_started">Indicator for running sleep timer</string>
+
+    <!-- dialogs -->
+    <string name="dialog_generic_button_okay">Okay</string>
+    <string name="dialog_generic_button_cancel">Cancel</string>
+    <string name="dialog_add_station_button">Add</string>
+    <string name="dialog_add_station_input_hint">Paste a valid streaming URL</string>
+    <string name="dialog_add_station_message">Add new station</string>
+    <string name="dialog_add_station_howto">You can add raw audio streams encoded in MP3 and OGG as well as streams encapsulated in pls or m3u files. Alternatively you can add new stations by tapping on streaming links (pls or m3u) in your web browser.</string>
+    <string name="dialog_delete_station_message">Delete station</string>
+    <string name="dialog_button_delete">Delete</string>
+    <string name="dialog_rename_station_input_hint">Enter a new name</string>
+    <string name="dialog_rename_station_message">Rename station</string>
+    <string name="dialog_button_rename">Rename</string>
+
+    <!-- error dialogs -->
+    <string name="dialog_error_title_default">Error</string>
+    <string name="dialog_error_message_default">An error occurred</string>
+    <string name="dialog_error_details_button_default">Show details</string>
+    <string name="dialog_error_details_default">No details available</string>
+    <string name="dialog_error_details_write">Station is probably a duplicate or else you might want to check your external storage.</string>
+    <string name="dialog_error_title_fetch_download">Download Issue</string>
+    <string name="dialog_error_title_fetch_read">Read Issue</string>
+    <string name="dialog_error_title_fetch_write">Write Issue</string>
+    <string name="dialog_error_message_fetch_general_external_storage">External storage:</string>
+    <string name="dialog_error_message_fetch_general_hint_m3u">Hint: Transistor can only process MP3 and OGG encoded streams or URLs ending in .m3u or .pls.</string>
+    <string name="dialog_error_message_fetch_general_playlist_type">MIME type of file:</string>
+    <string name="dialog_error_message_fetch_general_stream_type">MIME type of stream:</string>
+    <string name="dialog_error_message_fetch_general_file_content">Content of file:</string>
+    <string name="dialog_error_message_fetch_download">Transistor tried hard but could not make sense of given link.</string>
+    <string name="dialog_error_message_fetch_download_station_url">URL of station:</string>
+    <string name="dialog_error_message_fetch_read">Transistor tried hard but could not make sense of given file.</string>
+    <string name="dialog_error_message_fetch_read_file_location">Location of file:</string>
+    <string name="dialog_error_message_fetch_write">Transistor tried hard but could not save given station to storage.</string>
+
+    <!-- messages -->
+    <string name="actioncall_message_start_here">Add a new station</string>
+    <string name="toastmessage_add_download_started">Download started.</string>
+    <string name="toastmessage_add_open_file_started">Opening file.</string>
+    <string name="toastmessage_long_press_playback_stopped">Playback stopped (long press detected)</string>
+    <string name="toastmessage_long_press_playback_started">Playback started (long press detected)</string>
+    <string name="toastmessage_shortcut_created">Shortcut created.</string>
+    <string name="toastmessage_station_copied">Station copied.</string>
+    <string name="toastmessage_stream_may_not_work">Unsupported audio format detected. Playback of stream may not work properly.</string>
+    <string name="toastmessage_timer_activated">Sleep timer activated.</string>
+    <string name="toastmessage_timer_cancelled">Sleep timer cancelled.</string>
+    <string name="toastmessage_timer_duration_increased">Duration increased.</string>
+    <string name="toastmessage_timer_start_unable">Please start playback first.</string>
+    <string name="toastalert_rename_unsuccessful">Unable to rename station. Please choose a different name.</string>
+    <string name="toastalert_delete_successful">Station removed.</string>
+    <string name="toastalert_no_external_storage">Unable to access external storage.</string>
+    <string name="toastalert_headphones_unplugged">Headphones unplugged. Playback stopped.</string>
+    <string name="toastalert_permission_denied">Permission denied:</string>
+    <string name="toastalert_station_not_found">Unable to find station.</string>
+    <string name="toastalert_stream_not_found">Transistor does not recognize this station. Please delete and add it again to the Home screen.</string>
+    <string name="snackbar_request_storage_access">Transistor needs to be granted read permissions to be able access data from external storage.</string>
+    <string name="snackbar_message_timer_set">Sleep timer set to</string>
+
+    <!-- notification -->
+    <string name="notification_play">Play</string>
+    <string name="notification_stop">Stop</string>
+    <string name="notification_swipe_to_stop">Swipe to stop</string>
+    <string name="notification_playing">Playing</string>
+
+    <!-- infosheet about -->
+    <string name="infosheet_about_h1_about">About Transistor</string>
+    <string name="infosheet_about_h2_radio">Radio app for Android</string>
+    <string name="infosheet_about_h3_version">Version 2.1 ("Moonage Daydream")</string>
+    <string name="infosheet_about_p_bare">Transistor is a bare bones app for listening to radio programs over the internet. The app stores stations as files on your device\'s external storage. Look for files of type m3u within /Android/data/org.y20k.transistor/files/Collection. It currently understands streams encoded in MP3 and OGG.</string>
+    <string name="infosheet_about_p_note">Important note: This is an app of type BYOS (&quot;bring your own station&quot;). It does not feature any kind of built-in search option. You will have to manually add radio stations.</string>
+    <string name="infosheet_about_p_free">Transistor is free software. It is published under the MIT open source license. You can find the code on GitHub. GitHub is also a good place to file bugs or even to contribute, if you are interested.</string>
+    <string name="infosheet_about_p_github">https://github.com/y20k/transistor</string>
+    <string name="infosheet_about_p_license">https://opensource.org/licenses/MIT</string>
+    <string name="infosheet_about_h2_permissions">Which Permissions does Transistor need?</string>
+    <string name="infosheet_about_h3_shortcut">Permission INSTALL_SHORTCUT and UNINSTALL_SHORTCUT</string>
+    <string name="infosheet_about_p_shortcut">This permission is needed to install and uninstall radio station shortcuts on the Android Home screen.</string>
+    <string name="infosheet_about_h3_internet">Permission INTERNET</string>
+    <string name="infosheet_about_p_internet">Transistor streams radio stations over the internet.</string>
+    <string name="infosheet_about_h3_external">Permission READ_EXTERNAL_STORAGE</string>
+    <string name="infosheet_about_p_external">Transistor needs access to images, photos and documents to be able to customize radio station icons and to able to open locally saved playlist files.</string>
+    <string name="infosheet_about_h3_vibrate">Permission VIBRATE</string>
+    <string name="infosheet_about_p_vibrate">Tapping and holding a radio station will trigger a tiny vibration.</string>
+    <string name="infosheet_about_h3_wakelock">Permission WAKE_LOCK</string>
+    <string name="infosheet_about_p_wakelock">During Playback Transistor acquires a so called partial wake lock. That prevents the Android system to stop playback for power saving reasons.</string>
+
+    <!-- infosheet howto -->
+    <string name="infosheet_howto_h1_howto">How to use Transistor</string>
+    <string name="infosheet_howto_h2_add">How to add a new radio station?</string>
+    <string name="infosheet_howto_p_add">The easiest way to add a new station is to search the web for streaming links and then choose Transistor as a your default handler for those file types. You can also tap the (+) symbol in the top bar and paste in streaming links directly. Please note: Transistor does not feature any kind of built-in search option.</string>
+    <string name="infosheet_howto_h2_play">How to play back a radio station?</string>
+    <string name="infosheet_howto_p_play">Tap the big Play button ;).</string>
+    <string name="infosheet_howto_h2_stop">How to stop playback?</string>
+    <string name="infosheet_howto_p_stop">Tap the big Stop button or unplug your headphones or swipe off the notification from the lockscreen.</string>
+    <string name="infosheet_howto_h2_sleep">How to start the sleep timer?</string>
+    <string name="infosheet_howto_p_sleep">Tapping the Clock symbol starts a 15 minute countdown after which Transistor stops playback. An additional tap adds 15 minutes to the clock. Playback must be running to be able to activate the sleep timer.</string>
+    <string name="infosheet_howto_h2_shortcut">How to place a station shortcut on the Home screen?</string>
+    <string name="infosheet_howto_p_shortcut">The option to place a shortcut for a station on the Home screen can be accessed from the station\'s three dots menu. A tap on a shortcut will open Transistor - playback will start immediately.</string>
+    <string name="infosheet_howto_h2_edit">How to rename or delete a station?</string>
+    <string name="infosheet_howto_p_edit">The rename and delete options can be accessed both from the station\'s context menu. Just tap on the three dots symbol. You can manage the list of stations also from a file browser (see next question).</string>
+    <string name="infosheet_howto_h2_storage">Where does Transistor store its stations?</string>
+    <string name="infosheet_howto_p_storage">Transistor does not save its list of stations in a database. Instead it stores stations as m3u files on your device\'s external storage. Feel free to tinker with those files using the texteditor of your choice. The files are stored in /Android/data/org.y20k.transistor/files/Collection.</string>
+    <string name="infosheet_howto_h2_backup">How do I backup and transfer my radio stations?</string>
+    <string name="infosheet_howto_p_backup">Transistor has support for the Auto Backup feature in Android 6. Radio stations are always backed up to your Google account and will be restored at reinstall. On devices running on older versions of Android you must manually save and restore the &quot;Collection&quot; folder.</string>
+    <string name="infosheet_howto_h2_settings">Why are there no settings in Transistor?</string>
+    <string name="infosheet_howto_p_settings">There is nothing to set ;). Transistor is a very simple app. Depending on your point of view &quot;simple&quot; is either great or lame.</string>
+    <string name="subscription_key">b17eb5514c904092aa7477557276b70b</string>
+    <string name="faceSubscription_key">0940d7eedb2740f986c97190f8b93c6a</string>
+
+    <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+    <string name="add_subscription_key_tip">Please put your two subscription keys for Emotion API/Face API to source file \"app/res/values/strings.xml\" to enable Emotion API and Face API calls.</string>
+    <string name="title_activity_analyze">AnalyzeActivity</string>
+    <string name="title_activity_recognize">RecognizeActivity</string>
+    <string name="title_activity_thumbnail">ThumbnailActivity</string>
+    <string name="select_an_image">Select an Image</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="select_image_in_album">From Gallery</string>
+
+</resources>
