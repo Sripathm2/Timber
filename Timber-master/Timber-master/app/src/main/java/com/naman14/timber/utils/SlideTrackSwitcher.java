@@ -6,11 +6,6 @@ import android.view.MotionEvent;
 import android.view.View;
 
 import com.naman14.timber.MusicPlayer;
-
-/**
- * Created by nv95 on 02.11.16.
- */
-
 public class SlideTrackSwitcher implements View.OnTouchListener {
 
     private static final int SWIPE_THRESHOLD = 200;

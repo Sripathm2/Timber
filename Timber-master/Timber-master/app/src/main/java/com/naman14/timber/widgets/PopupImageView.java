@@ -8,10 +8,6 @@ import android.util.AttributeSet;
 import android.widget.ImageView;
 
 import com.afollestad.appthemeengine.util.TintHelper;
-
-/**
- * Created by naman on 29/10/16.
- */
 public class PopupImageView extends ImageView {
 
     public PopupImageView(Context context) {
