@@ -4,10 +4,6 @@ import android.content.Context;
 import android.content.SharedPreferences;
 
 import com.google.gson.annotations.SerializedName;
-
-/**
- * Created by christoph on 17.07.16.
- */
 public class LastfmUserSession {
     private static final String USERNAME = "name";
     private static final String TOKEN = "key";
