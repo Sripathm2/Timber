@@ -3,9 +3,6 @@ package com.naman14.timber.lastfmapi.models;
 import com.google.gson.annotations.SerializedName;
 import com.naman14.timber.lastfmapi.LastFmClient;
 
-/**
- * Created by christoph on 17.07.16.
- */
 public class ScrobbleQuery {
     private static final String ARTIST_NAME = "artist";
     private static final String TRACK_NAME = "track";
